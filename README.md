@@ -38,7 +38,11 @@ The engine utilizes `PyQt5` to render a 2-panel quantitative dashboard analyzing
 
 
 
-https://github.com/user-attachments/assets/3081b07e-ce34-4357-8c8f-6bb2d44fbdf4
+
+
+https://github.com/user-attachments/assets/95b3736c-e0a5-49c5-b9ae-cdbcf7c40e2b
+
+
 
 
 
